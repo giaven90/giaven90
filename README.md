@@ -1,11 +1,15 @@
 ## Hi there 👋
 
+## I am a researcher at the Scuola Normale Superiore in Pisa, Italy.
+
+## - 🔭 I’m currently working on analysing JWST NIRSpec observations of galaxies in the early Universe.
+
 <!--
 **giaven90/giaven90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on analysing JWST NIRSpec observations of galaxies in the early Universe.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
