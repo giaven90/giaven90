@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-## I am a researcher at the Scuola Normale Superiore in Pisa, Italy.
+## I am a researcher in Astrophysics at the Arcetri Observatory of the National Institute of Astrophysics in Florence, Italy.
 
-## - 🔭 I’m currently working on analysing JWST NIRSpec observations of galaxies in the early Universe.
+## - 🔭 I’m currently working on analysing observations of galaxies hosting super-Eddington-accreting supermassive black holes, acquired with the MUSE integral field spectrograph on the Very Large Telescope.
 
 <!--
 **giaven90/giaven90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
